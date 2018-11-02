@@ -1,0 +1,69 @@
+html {
+	font-family: sans-serif;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust:     100%;
+}
+
+body {
+	margin: 0;
+      padding: 0.5em;
+
+}
+
+
+div {
+ 
+      height: 10em;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-image: url(../somecase-master/images/model-beauty-nike-2.jpg);
+    
+}
+
+header {
+    
+    background-color: #fff;
+    	display: block;
+	height: auto;
+    
+}
+
+
+
+section { 
+
+   background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding-top: 1em;
+}
+
+.masthead {
+  padding: 2em;
+  text-align: center;
+}
+
+.masthead img {
+  width: 180px;
+  margin: 0 auto;
+}
+
+
+
+
+
+  @media screen and (min-width: 800px) {
+ 
+      body{ 
+  padding: 10em;
+}
+      
+  
+  @media screen and (min-width: 1200px) {
+
+    padding: 15em;
+      
+}
